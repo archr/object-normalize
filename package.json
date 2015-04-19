@@ -1,0 +1,26 @@
+{
+  "name": "object-normalize",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:archr/object-normalize.git"
+  },
+  "author": "Antonio Sandoval <arche3r@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archr/object-normalize/issues"
+  },
+  "keywords": [
+    "object",
+    "browser"
+  ],
+  "homepage": "https://github.com/archr/object-normalize",
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
+}
