@@ -9,11 +9,11 @@ it('should work', function () {
   }
 
   var transform = {
-  	name: 'Abelardo',
-  	address: {
-  		street: 'Street .',
-  		number: 122
-  	}
+    name: 'Abelardo',
+    address: {
+      street: 'Street .',
+      number: 122
+    }
   };
 
   assert.deepEqual(normalize(obj), transform);
